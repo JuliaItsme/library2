@@ -1,4 +1,3 @@
-TRUNCATE book RESTART IDENTITY;
 TRUNCATE person RESTART IDENTITY CASCADE ;
 
 INSERT INTO Person (full_name, year_of_birth)
