@@ -1,0 +1,8 @@
+package ru.goryacheva.library.dao;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class BooksDAO {
+    // Здесь будут лежать специфические запросы к БД (с помощью SQL)
+}
